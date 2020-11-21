@@ -12,6 +12,7 @@
         "cviebrock/eloquent-sluggable": "4.8",
         "doctrine/dbal": "^3.0",
         "fideloper/proxy": "^4.0",
+        "intervention/image": "^2.5",
         "irazasyed/telegram-bot-sdk": "^2.0",
         "kalnoy/nestedset": "^4.3",
         "laravel/framework": "5.8.*",
