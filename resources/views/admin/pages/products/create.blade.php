@@ -102,7 +102,7 @@
                         </div>
                         <div class="form-group">
                             <div class="form-material floating">
-                                <input class="form-control" type="number" id="price" name="price" value="{{ old('price') }}">
+                                <input class="form-control" type="text" id="price" name="price" value="{{ old('price') }}">
                                 <label for="price">Цена</label>
                             </div>
                         </div>
